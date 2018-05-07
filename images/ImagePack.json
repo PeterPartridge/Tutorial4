@@ -1,0 +1,44 @@
+{"frames": {
+
+"Hero.png":
+{
+	"frame": {"x":0,"y":0,"w":64,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":83},
+	"sourceSize": {"w":64,"h":83}
+},
+"map.png":
+{
+	"frame": {"x":0,"y":91,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600}
+},
+"Monster.png":
+{
+	"frame": {"x":64,"y":0,"w":79,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":64},
+	"sourceSize": {"w":79,"h":64}
+},
+"Treasure.png":
+{
+	"frame": {"x":143,"y":0,"w":92,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":91},
+	"sourceSize": {"w":92,"h":91}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ImagePack.png",
+	"format": "RGBA8888",
+	"size": {"w":800,"h":691},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:23901b0a8554ccd12fa01074305c5f0a:0336bea6528d170e2394133025a6b3c9:b07d287962a60dbc978efc63dd269b5a$"
+}
+}
